@@ -1,3 +1,5 @@
-streamlit>=1.0
-pandas
+streamlit
 numpy
+pandas
+scikit-learn
+tensorflow
